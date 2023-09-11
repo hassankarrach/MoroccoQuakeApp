@@ -1,0 +1,3411 @@
+[
+    {
+      "VillageName": "Talat N'Yaaqoub",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1897211 30.9890101)"
+    },
+    {
+      "VillageName": "Ijoukak",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1625362 30.9973235)"
+    },
+    {
+      "VillageName": "دوار امندار",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5796494 30.8470173)"
+    },
+    {
+      "VillageName": "دوار تجكَالت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.855264199999999 31.0607559)"
+    },
+    {
+      "VillageName": "Centre Commune Toubkal",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.815381100000001 30.9928352)"
+    },
+    {
+      "VillageName": "Centre Commune Oneine",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1871284 30.8646914)"
+    },
+    {
+      "VillageName": "Anzal",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.5826235 31.1206905)"
+    },
+    {
+      "VillageName": "Commune Imoulass",
+      "PhoneNumber": "0667359663",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7652556 30.74233869999999)"
+    },
+    {
+      "VillageName": "Tizi n' Test",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3780556 30.8647222)"
+    },
+    {
+      "VillageName": "Amguernis",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5563077 30.8699776)"
+    },
+    {
+      "VillageName": "Amguernis",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5563077 30.8699776)"
+    },
+    {
+      "VillageName": "Centre Commune Ahl Tifnoute Assarag",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.826937200000001 30.964347)"
+    },
+    {
+      "VillageName": "Amguernis",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5563077 30.8699776)"
+    },
+    {
+      "VillageName": "Ikisane",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5 30.916667)"
+    },
+    {
+      "VillageName": "Tadafalte",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-5.4279948 31.4365678)"
+    },
+    {
+      "VillageName": "Tadouni",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.317399100000001 30.53349579999999)"
+    },
+    {
+      "VillageName": "Aït Othmane",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3916978 31.15403)"
+    },
+    {
+      "VillageName": "Izalaghen",
+      "PhoneNumber": "0668546655",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2028444 31.2117167)"
+    },
+    {
+      "VillageName": "مجموعة مدارس المتنبي - وحدة أرك",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.8742009 30.98320259999999)"
+    },
+    {
+      "VillageName": "QJR7+CJC Tajgalte",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3859725 30.7910694)"
+    },
+    {
+      "VillageName": "QH6J+FVM Ait Maalla",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.4178373 30.7612009)"
+    },
+    {
+      "VillageName": "PFF3+9HR Talgjount",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.546109 30.7234951)"
+    },
+    {
+      "VillageName": "Q849+QF3 Sidi Abdellah Oussaid",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.6813228 30.7568886)"
+    },
+    {
+      "VillageName": "PFQ5+XW6 Aguer Ou Fella",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5402226 30.7399006)"
+    },
+    {
+      "VillageName": "PF75+WJG Talgjount",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5409092 30.7148151)"
+    },
+    {
+      "VillageName": "PF28+XW8 Sinns",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5326695 30.7024176)"
+    },
+    {
+      "VillageName": "QH72+CR8 Targa N'hanna",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.4479303 30.7635319)"
+    },
+    {
+      "VillageName": "Amguernis",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5563077 30.8699776)"
+    },
+    {
+      "VillageName": "دوار امندار",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5796494 30.8470173)"
+    },
+    {
+      "VillageName": "Tafingoult",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.388272299999999 30.7648281)"
+    },
+    {
+      "VillageName": "Commune Tigouga",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.616475699999999 30.8473135)"
+    },
+    {
+      "VillageName": "Ait Haddou",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-5.4057358 30.615757)"
+    },
+    {
+      "VillageName": "Chichaoua",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7646388 31.5383581)"
+    },
+    {
+      "VillageName": "دوار امندار",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5796494 30.8470173)"
+    },
+    {
+      "VillageName": "دوار تجكَالت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.855264199999999 31.0607559)"
+    },
+    {
+      "VillageName": "Tafingoult",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.388272299999999 30.7648281)"
+    },
+    {
+      "VillageName": "WP34+69P Mouldikht",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.294041 30.903097)"
+    },
+    {
+      "VillageName": "Centre Commune Oneine",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.187128399999999 30.8646914)"
+    },
+    {
+      "VillageName": "Anzal",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.5826235 31.1206905)"
+    },
+    {
+      "VillageName": "Douar Lakhmiss Ourika",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.7695151 31.3878876)"
+    },
+    {
+      "VillageName": "Aghbar",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.405211099999999 30.9037126)"
+    },
+    {
+      "VillageName": "Commune Imoulass",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7652556 30.74233869999999)"
+    },
+    {
+      "VillageName": "Amizmiz",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2404397 31.2185473)"
+    },
+    {
+      "VillageName": "ايت حدو يوسف إقليم شيشاوة‎‎",
+      "PhoneNumber": "0661688007",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.721619900000002 30.93757879999999)"
+    },
+    {
+      "VillageName": "Imindounit",
+      "PhoneNumber": "0674277085",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5315932 31.066618)"
+    },
+    {
+      "VillageName": "Adassil",
+      "PhoneNumber": "0676518652",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.496595 31.1123069)"
+    },
+    {
+      "VillageName": "Centre Commune Timezgadiouine",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.0439796 30.8851314)"
+    },
+    {
+      "VillageName": "Lalla Aziza",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.6999474 31.0816473)"
+    },
+    {
+      "VillageName": "حمام ادويران",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.779311800000002 31.2139256)"
+    },
+    {
+      "VillageName": "Assif El Mal",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.4780731 31.3088726)"
+    },
+    {
+      "VillageName": "Centre Commune Ain Tazitounte",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.9259142 31.1258373)"
+    },
+    {
+      "VillageName": "أمكرنيس",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.555587799999998 30.87075059999999)"
+    },
+    {
+      "VillageName": "دوار امندار",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5796494 30.8470173)"
+    },
+    {
+      "VillageName": "دوار تجكَالت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.855264199999999 31.0607559)"
+    },
+    {
+      "VillageName": "Tafingoult",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.388272299999999 30.7648281)"
+    },
+    {
+      "VillageName": "Anzal",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.5826235 31.1206905)"
+    },
+    {
+      "VillageName": "أغبار",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.971523899999999 30.8025138)"
+    },
+    {
+      "VillageName": "Mosquée Aguerd Ourigh",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.587295000000001 30.80154610000001)"
+    },
+    {
+      "VillageName": "Unité Aguerd Ourigh",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.584416700000002 30.8019465)"
+    },
+    {
+      "VillageName": "Commune Imoulass",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7652556 30.74233869999999)"
+    },
+    {
+      "VillageName": "Imlil toubkal",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.919794 31.137745)"
+    },
+    {
+      "VillageName": "Assegmou",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.562992299999999 31.3301773)"
+    },
+    {
+      "VillageName": "Imoulass",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7653273 30.7434021)"
+    },
+    {
+      "VillageName": "Ighlmlen",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.652323899999999 30.9360202)"
+    },
+    {
+      "VillageName": "N'Fiss",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1980609 31.57461899999999)"
+    },
+    {
+      "VillageName": "ادسيار امزغني",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.0912867 31.0200943)"
+    },
+    {
+      "VillageName": "Tasghimoute",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.594480099999999 31.5658852)"
+    },
+    {
+      "VillageName": "N'Fiss",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1980609 31.57461899999999)"
+    },
+    {
+      "VillageName": "Ijoukak",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1625362 30.9973235)"
+    },
+    {
+      "VillageName": "Amassa",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.8269728 30.867065)"
+    },
+    {
+      "VillageName": "Talgjount",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5453225 30.7267467)"
+    },
+    {
+      "VillageName": "Ligne 72",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "LINESTRING (5.125648 52.2438407, 5.0782496 52.2287095, 5.0253978 52.2085101, 5.181953 52.2480448, 5.1991191 52.4376566, 5.0974956 52.247204)"
+    },
+    {
+      "VillageName": "Iguidi",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.9274437 30.7479144)"
+    },
+    {
+      "VillageName": "Moulay Brahim",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.968822199999999 31.2854409)"
+    },
+    {
+      "VillageName": "Talat N'Yaaqoub",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1897211 30.9890101)"
+    },
+    {
+      "VillageName": "Ijoukak",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1625362 30.9973235)"
+    },
+    {
+      "VillageName": "Imoulass",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7653273 30.7434021)"
+    },
+    {
+      "VillageName": "Dowar ighil",
+      "PhoneNumber": "0767766140",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.8210169 30.7654772)"
+    },
+    {
+      "VillageName": "Terrain Tansgharte | ملعب تنصغارت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.0532853 31.3008898)"
+    },
+    {
+      "VillageName": "أنيرني",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3160302 31.1194909)"
+    },
+    {
+      "VillageName": "Talbourt",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.0726595 30.6121001)"
+    },
+    {
+      "VillageName": "تماروت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2510993 30.9343946)"
+    },
+    {
+      "VillageName": "الزاوية النحلية Zaouiya Nahliya",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.601008900000002 31.2221675)"
+    },
+    {
+      "VillageName": "Adassil",
+      "PhoneNumber": "0662824142",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.496595 31.1123069)"
+    },
+    {
+      "VillageName": "ايت حدو يوسف إقليم شيشاوة",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.721619900000002 30.93757879999999)"
+    },
+    {
+      "VillageName": "Taslli",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.83376 31.4646774)"
+    },
+    {
+      "VillageName": "Mosquée Talmoudaat",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.808383399999999 30.8937978)"
+    },
+    {
+      "VillageName": "",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.2851816 31.5764533)"
+    },
+    {
+      "VillageName": "Ait Mhand",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7735898 31.0290135)"
+    },
+    {
+      "VillageName": "ركتو",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.659820999999997 30.9312721)"
+    },
+    {
+      "VillageName": "Allousse",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.8699492 31.3226293)"
+    },
+    {
+      "VillageName": "Adebdi",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.4832176 30.8381106)"
+    },
+    {
+      "VillageName": "Ait Bahmou",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.5159026 31.17711779999999)"
+    },
+    {
+      "VillageName": "Ait Hammou",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.776308200000001 31.4286548)"
+    },
+    {
+      "VillageName": "Imintanoute",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.8457977 31.1719751)"
+    },
+    {
+      "VillageName": "Douar Lakhmiss Ourika",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.7695151 31.3878876)"
+    },
+    {
+      "VillageName": "فنسو",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.721619900000002 30.93757879999999)"
+    },
+    {
+      "VillageName": "توطغران",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.9111474 30.9661036)"
+    },
+    {
+      "VillageName": "Terrain Tajgalt",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.389719399999999 30.7911696)"
+    },
+    {
+      "VillageName": "دوار واونساوت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7243061 30.9371645)"
+    },
+    {
+      "VillageName": "Secteur Scolaire Azgrouz - Unité Aberzizen",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.018837800000002 30.85205989999999)"
+    },
+    {
+      "VillageName": "Mosquée Tanmitert",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.839772000000001 30.9566134)"
+    },
+    {
+      "VillageName": "Sidi Abdellah Oussaid",
+      "PhoneNumber": "0711032980",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.682751399999999 30.7532462)"
+    },
+    {
+      "VillageName": "Tafingoult",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.388272299999999 30.7648281)"
+    },
+    {
+      "VillageName": "Point 119",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.332084 30.5969955)"
+    },
+    {
+      "VillageName": "Point 119",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2644336 31.1479911)"
+    },
+    {
+      "VillageName": "Tamsoulte",
+      "PhoneNumber": "0654325731",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.947197999999998 30.96715)"
+    },
+    {
+      "VillageName": "أغبار",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.971523899999999 30.8025138)"
+    },
+    {
+      "VillageName": "Amassine",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.582962200000001 30.810225)"
+    },
+    {
+      "VillageName": "Ichebaken",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.6137161 31.4655658)"
+    },
+    {
+      "VillageName": "إشباكن ايت زغار‎‎",
+      "PhoneNumber": "0670992678 - 0643177551 - 06103872248",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.6987479 31.4366738)"
+    },
+    {
+      "VillageName": "دوار ادبدي‎",
+      "PhoneNumber": "0626005211",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.032655 30.6591428)"
+    },
+    {
+      "VillageName": "وزكيتة‎",
+      "PhoneNumber": "0644684967",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.0747825 31.2940195)"
+    },
+    {
+      "VillageName": "تازولت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.777592100000001 30.7849942)"
+    },
+    {
+      "VillageName": "mount Awlim",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.8149505 30.8257087)"
+    },
+    {
+      "VillageName": "دوار تخزنيت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5453225 30.72674670000001)"
+    },
+    {
+      "VillageName": "أفودا",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.6084453 30.77770199999999)"
+    },
+    {
+      "VillageName": "أمازيرا",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.608530400000001 30.7795419)"
+    },
+    {
+      "VillageName": "Secteur Scolaire Al Qadisiyya - Unité Takoucht",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.6061294 30.7791814)"
+    },
+    {
+      "VillageName": "زاوية المعدن",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.6189184 30.7750862)"
+    },
+    {
+      "VillageName": "دوار توفغين‎",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.878869 31.4296444)"
+    },
+    {
+      "VillageName": "",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "جماعة أيت تمليل -دائرة دمنات، إقليم أزيلال."
+    },
+    {
+      "VillageName": "",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "اسم جمعية محلية: جمعية الأحباب للتنمية والثقافة والأعمال الاجتماعية"
+    },
+    {
+      "VillageName": "",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "0671573639 للتواصل معنا: مروان"
+    },
+    {
+      "VillageName": "",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": ""
+    },
+    {
+      "VillageName": "VP36+F52 Amegdoul",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.28961111111111 30.85363888888889)"
+    },
+    {
+      "VillageName": "HF34+R9H Ctre Commune Igli",
+      "PhoneNumber": "0673-274116",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.544027777777778 30.554555555555556)"
+    },
+    {
+      "VillageName": "Douar Tachbibt",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2261647 31.265739)"
+    },
+    {
+      "VillageName": "Centre Commune Toubkal ايت لتي جماعة توبقال‎",
+      "PhoneNumber": "0666518476",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.8153811 30.9928352)"
+    },
+    {
+      "VillageName": "",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": ""
+    },
+    {
+      "VillageName": "TIMICHA",
+      "PhoneNumber": "0689968542",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.570907509675354 31.276315401242684)"
+    },
+    {
+      "VillageName": "Algou",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3901563 30.8443644)"
+    },
+    {
+      "VillageName": "Centre Commune Mzouda",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5858382 31.2867914)"
+    },
+    {
+      "VillageName": "أفودا",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.6084453 30.77770199999999)"
+    },
+    {
+      "VillageName": "Adassil",
+      "PhoneNumber": "0637594966",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.496595 31.1123069)"
+    },
+    {
+      "VillageName": "Taskkourt",
+      "PhoneNumber": "0670732688‎",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.4691567 31.1880309)"
+    },
+    {
+      "VillageName": "Talat N'Yaaqoub",
+      "PhoneNumber": "0602980306‎",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1897211 30.9890101)"
+    },
+    {
+      "VillageName": "Assif El Mal",
+      "PhoneNumber": "0651401609‎",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.4780731 31.3088726)"
+    },
+    {
+      "VillageName": "Taounghast",
+      "PhoneNumber": "0676877090-0662065152  ‎‎",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5350253 31.0614124)"
+    },
+    {
+      "VillageName": "تامسولت ( أيت إيعزة )",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.908894600000001 30.8057837)"
+    },
+    {
+      "VillageName": "tighariwine",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.9175483 30.7880766)"
+    },
+    {
+      "VillageName": "dowar mezzi",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.9160891 30.7999471)"
+    },
+    {
+      "VillageName": "8JG9+23J Tagouawat",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.3823485 31.3250963)"
+    },
+    {
+      "VillageName": "XRQ6+J42 Talat N'Yaaqoub",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1897211 30.9890101)"
+    },
+    {
+      "VillageName": "ait bourd",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.366667 31.2168134)"
+    },
+    {
+      "VillageName": "Izourane",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.5146864 31.3209049)"
+    },
+    {
+      "VillageName": "Wamslakhet",
+      "PhoneNumber": "0687275134",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2079699 30.7225287)"
+    },
+    {
+      "VillageName": "Talat N'Yaaqoub",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1897211 30.9890101)"
+    },
+    {
+      "VillageName": "Irk N'Oufella",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2209561 30.7516692)"
+    },
+    {
+      "VillageName": "Klate",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1621577 30.7345292)"
+    },
+    {
+      "VillageName": "Ait Ali",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3817642 31.2481114)"
+    },
+    {
+      "VillageName": "مدرسة ايت اكيت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.199979800000001 30.74186449999999)"
+    },
+    {
+      "VillageName": "مسجد سمغور. Samghorte Imgdal‎",
+      "PhoneNumber": "0653557339",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2216893 31.099365)"
+    },
+    {
+      "VillageName": "Amghras",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1837123 31.2100948)"
+    },
+    {
+      "VillageName": "Centre commune Rurale Sidi Badehaj",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2086533 31.3012111)"
+    },
+    {
+      "VillageName": "Lakhmiss Sidi Badhaje",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2383886 31.2705407)"
+    },
+    {
+      "VillageName": "Dar Jamaa",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.377311599999999 31.2494676)"
+    },
+    {
+      "VillageName": "Asloune",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.353683199999999 30.99184)"
+    },
+    {
+      "VillageName": "Asloune",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.353683199999999 30.99184)"
+    },
+    {
+      "VillageName": "Tizguine",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3143192 31.2393596)"
+    },
+    {
+      "VillageName": "Asloune",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.353683199999999 30.99184)"
+    },
+    {
+      "VillageName": "Anbdoure",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2544575 30.972603)"
+    },
+    {
+      "VillageName": "Anbdoure",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2544575 30.972603)"
+    },
+    {
+      "VillageName": "Ait Rzine",
+      "PhoneNumber": "0618022338",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.265742 31.2801442)"
+    },
+    {
+      "VillageName": "Azgour",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3074754 31.1474177)"
+    },
+    {
+      "VillageName": "Centre Commune Oneine",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.187128399999999 30.8646914)"
+    },
+    {
+      "VillageName": "Toulkine",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3314314 31.1622168)"
+    },
+    {
+      "VillageName": "Ardouz",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.359504 31.1099168)"
+    },
+    {
+      "VillageName": "دوار تزكي تكنت‎",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.0393157 31.0737572)"
+    },
+    {
+      "VillageName": "Ait Ouzekri",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2474483 31.1848728)"
+    },
+    {
+      "VillageName": "KETTOU",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.274292 31.0859108)"
+    },
+    {
+      "VillageName": "Makhefamane",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.0291318 30.5873465)"
+    },
+    {
+      "VillageName": "Douar Aoulouss دوار أولوس",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.767350399999998 30.75862)"
+    },
+    {
+      "VillageName": "Ourmer",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2524059 31.0866049)"
+    },
+    {
+      "VillageName": "Taourirte n Ait Zaghar",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.5793396 31.2784409)"
+    },
+    {
+      "VillageName": "مسجد امي اورمل‎",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2652137 31.0933306)"
+    },
+    {
+      "VillageName": "Ait Marzoug",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2614673 31.1022056)"
+    },
+    {
+      "VillageName": "تدروخت أوناين‎",
+      "PhoneNumber": "0615688264",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1970923 30.8013938)"
+    },
+    {
+      "VillageName": "دوار تلفيتين‎",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2769493 31.1177304)"
+    },
+    {
+      "VillageName": "مسجد درع السوق‎",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2288034 31.2134309)"
+    },
+    {
+      "VillageName": "Douar Tamtkale",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.134057399999999 31.211811)"
+    },
+    {
+      "VillageName": "Tighza",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.123824099999999 31.3038479)"
+    },
+    {
+      "VillageName": "Anmiter",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.1428254 31.2859503)"
+    },
+    {
+      "VillageName": "Taguendouchte",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.1476762 31.2308765)"
+    },
+    {
+      "VillageName": "Douar Ait Oumazir",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.1360992 31.2153299)"
+    },
+    {
+      "VillageName": "Telouet",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.239665899999999 31.28883279999999)"
+    },
+    {
+      "VillageName": "Assaka",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.3551818 31.0983404)"
+    },
+    {
+      "VillageName": "Ait Oussaid",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.135969799999999 31.2085122)"
+    },
+    {
+      "VillageName": "Telouet",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.239665899999999 31.28883279999999)"
+    },
+    {
+      "VillageName": "Tidili",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.4957504 30.68188069999999)"
+    },
+    {
+      "VillageName": "سوق خزامة الأسبوعي",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.538235700000002 30.8035446)"
+    },
+    {
+      "VillageName": "مقر جماعة إمي نولاون",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.5109946 31.31073159999999)"
+    },
+    {
+      "VillageName": "Aït Ouassern",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.299999999999997 31.266667)"
+    },
+    {
+      "VillageName": "L'ESPACE ASSOCIATIF DE LA COMMUNE IMINOULAOUNE",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.5081549 31.31263670000001)"
+    },
+    {
+      "VillageName": "مركزية إمي نولاون",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.5094016 31.3165162)"
+    },
+    {
+      "VillageName": "مجموعة مدارس امي نولاون",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.951444599999999 31.2880363)"
+    },
+    {
+      "VillageName": "بورمان جماعة إمي نولاون",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.496470799999999 31.3598361)"
+    },
+    {
+      "VillageName": "Ifourirene",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2407816 30.9713416)"
+    },
+    {
+      "VillageName": "أغبار",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.971523899999999 30.8025138)"
+    },
+    {
+      "VillageName": "Telouet",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.239665899999999 31.28883279999999)"
+    },
+    {
+      "VillageName": "تزوزن",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3332322 30.8434442)"
+    },
+    {
+      "VillageName": "Toulkine",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3314314 31.1622168)"
+    },
+    {
+      "VillageName": "Azgour",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3074754 31.1474177)"
+    },
+    {
+      "VillageName": "Aguerd",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.810283399999999 30.4859264)"
+    },
+    {
+      "VillageName": "Aguerd",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.180638 31.1317314)"
+    },
+    {
+      "VillageName": "8WGX+257 Igi Ousolil",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.0520668 31.3250278)"
+    },
+    {
+      "VillageName": "7XP8+XH3 Ait Smail",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.033592 31.2873776)"
+    },
+    {
+      "VillageName": "6WCF+8QG Ctre Commune Taouloukoult",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.0755395 31.2208103)"
+    },
+    {
+      "VillageName": "7398+JM7 Sidi Abdelmoumen",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.9333155 31.2690298)"
+    },
+    {
+      "VillageName": "Tafarghouste",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2496706 30.9771814)"
+    },
+    {
+      "VillageName": "Timjoujte",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.2443846 31.3120374)"
+    },
+    {
+      "VillageName": "Timjoujte",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.2443846 31.3120374)"
+    },
+    {
+      "VillageName": "مسجد الكناسيس‎",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3751593 31.5938385)"
+    },
+    {
+      "VillageName": "دوار فلغوس",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.6706515 30.8118427)"
+    },
+    {
+      "VillageName": "ارتيمن‎",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.0377217 31.1881638)"
+    },
+    {
+      "VillageName": "سيدي عبد الله أوسعيد‎‎",
+      "PhoneNumber": "0652704055 ‎",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.682751399999999 30.7532462)"
+    },
+    {
+      "VillageName": "دوار وانزيض",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.808083799999999 31.0347946)"
+    },
+    {
+      "VillageName": "دوار أكاوز",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.858934 30.8720829)"
+    },
+    {
+      "VillageName": "دوار توزمطان",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5509865 30.7276207)"
+    },
+    {
+      "VillageName": "دوار توك الخير",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7872964 31.05348510000001)"
+    },
+    {
+      "VillageName": "دوار تماروت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.887398499999998 31.0383259)"
+    },
+    {
+      "VillageName": "دوار تمرزاكت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.541446899999999 31.38545420000001)"
+    },
+    {
+      "VillageName": "دوار تيزي واركيون",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.812004100000001 31.165921)"
+    },
+    {
+      "VillageName": "دوار بورمضان جماعة إگيدي",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.8891551 30.8770803)"
+    },
+    {
+      "VillageName": "دوار تيسخت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.8094338 30.7134263)"
+    },
+    {
+      "VillageName": "دوار اكنزا",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.1220962 30.78212370000001)"
+    },
+    {
+      "VillageName": "دوار إكرنسوق",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7370282 31.13365249999999)"
+    },
+    {
+      "VillageName": "دوار الودجان",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.8005035 31.1830169)"
+    },
+    {
+      "VillageName": "دوار توليلو",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.1973952 31.1922095)"
+    },
+    {
+      "VillageName": "دوار اضرضور",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.738503200000002 31.0558174)"
+    },
+    {
+      "VillageName": "دوار تاجلت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.8448044 30.8591838)"
+    },
+    {
+      "VillageName": "Tagnite",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.8371353 30.989378)"
+    },
+    {
+      "VillageName": "Amsouzart",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.831696099999998 31.0117916)"
+    },
+    {
+      "VillageName": "Tizguine",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3143192 31.2393596)"
+    },
+    {
+      "VillageName": "Ait Wagna",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.323388200000002 31.2311349)"
+    },
+    {
+      "VillageName": "Ait Smil",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.349232299999999 31.2321199)"
+    },
+    {
+      "VillageName": "Ait Slimane",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.317399100000001 31.2281487)"
+    },
+    {
+      "VillageName": "آيت أوسايح",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3269818 30.7384751)"
+    },
+    {
+      "VillageName": "خالتي سعاد",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2508717 31.2873063)"
+    },
+    {
+      "VillageName": "Lhy Sinai Ait Chtia",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.258012599999999 31.2810048)"
+    },
+    {
+      "VillageName": "Laassakera",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2619803 31.2757703)"
+    },
+    {
+      "VillageName": "Dr Zgagma",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2528696 31.2753805)"
+    },
+    {
+      "VillageName": "domaine boulaabar",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2462772 31.274255)"
+    },
+    {
+      "VillageName": "دوار امندار",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5796494 30.8470173)"
+    },
+    {
+      "VillageName": "Amguernis",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5563077 30.8699776)"
+    },
+    {
+      "VillageName": "Tafingoult",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.388272299999999 30.7648281)"
+    },
+    {
+      "VillageName": "Azgéér",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.0887317 29.7972219)"
+    },
+    {
+      "VillageName": "Imin Tislite",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.0765288 30.8873322)"
+    },
+    {
+      "VillageName": "Mosque Tifni",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.355310400000002 30.9439022)"
+    },
+    {
+      "VillageName": "Groupe scolaire Ibn Toumart",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.323417099999999 30.9230885)"
+    },
+    {
+      "VillageName": "دوار أورير",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.756495600000001 30.3376719)"
+    },
+    {
+      "VillageName": "Ouirgane",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.0751645 31.1736005)"
+    },
+    {
+      "VillageName": "Taghbarte",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.120481 30.968937)"
+    },
+    {
+      "VillageName": "Tikirte",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.102294199999999 30.954539)"
+    },
+    {
+      "VillageName": "Douar Tajgujite",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.143532899999999 31.2206745)"
+    },
+    {
+      "VillageName": "Tighrmte n Ait Alla",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.135214100000001 31.2106821)"
+    },
+    {
+      "VillageName": "Douar ighrme Azgagh",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.1389119 31.21480549999999)"
+    },
+    {
+      "VillageName": "Ighil n'Oumgoun",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.240295799999998 31.4999251)"
+    },
+    {
+      "VillageName": "Ait Igas",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7198996 30.5424632)"
+    },
+    {
+      "VillageName": "Imindounit",
+      "PhoneNumber": "0674277085‎",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5315932 31.066618)"
+    },
+    {
+      "VillageName": "دوار إگرضان",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3722298 30.3475914)"
+    },
+    {
+      "VillageName": "Centre Commune Amghras",
+      "PhoneNumber": "0662695202",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1837123 31.2100948)"
+    },
+    {
+      "VillageName": "إفروان‎‎",
+      "PhoneNumber": "0639730359",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.8230075 30.7538514)"
+    },
+    {
+      "VillageName": "Centre Commune Oneine",
+      "PhoneNumber": "0611989212",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.187128399999999 30.8646914)"
+    },
+    {
+      "VillageName": "مسجد تمجلوشت اميلمايس‎‎",
+      "PhoneNumber": "0667209643‎",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.790542700000001 30.8762268)"
+    },
+    {
+      "VillageName": "Amerzgane",
+      "PhoneNumber": "06347737906‎",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.2106867 31.046227)"
+    },
+    {
+      "VillageName": "مقهي تمسيت‎‎",
+      "PhoneNumber": "0670349203‎",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.984074300000001 31.2465242)"
+    },
+    {
+      "VillageName": "Ouirgane",
+      "PhoneNumber": "066793820‎",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.0751645 31.1736005)"
+    },
+    {
+      "VillageName": "Ait Bou Oulli",
+      "PhoneNumber": "0631668099",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.603773 31.6033329)"
+    },
+    {
+      "VillageName": "Lalla Aziza",
+      "PhoneNumber": "0656755925 0771038310",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.6999474 31.0816473)"
+    },
+    {
+      "VillageName": "Telouet",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.239665899999999 31.28883279999999)"
+    },
+    {
+      "VillageName": "أنميتر",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.785025300000001 31.19811449999999)"
+    },
+    {
+      "VillageName": "Telouet",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.239665899999999 31.28883279999999)"
+    },
+    {
+      "VillageName": "Tabya",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.8790134 30.0361249)"
+    },
+    {
+      "VillageName": "دوار تكيرت جماعة أيت زينب",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.126399500000001 30.9876751)"
+    },
+    {
+      "VillageName": "Tidili",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.4957504 30.68188069999999)"
+    },
+    {
+      "VillageName": "Ighrem N'ougdal",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.423264000000001 31.2299803)"
+    },
+    {
+      "VillageName": "دوار تدارت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.950394399999999 31.35264379999999)"
+    },
+    {
+      "VillageName": "Taliouine",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.923878499999999 30.5312657)"
+    },
+    {
+      "VillageName": "جماعة اساكي‎",
+      "PhoneNumber": "0670-784764",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.0269548 30.56003139999999)"
+    },
+    {
+      "VillageName": "مسجد دوار أدوز",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.644149100000002 31.1144019)"
+    },
+    {
+      "VillageName": "دوار إد علي",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.913115700000001 30.7353)"
+    },
+    {
+      "VillageName": "Tahannaout",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.950432699999999 31.3526424)"
+    },
+    {
+      "VillageName": "Taoulokoult",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.082555999999999 31.223419)"
+    },
+    {
+      "VillageName": "Centre Commune Taouloukoult",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.0736964 31.2219543)"
+    },
+    {
+      "VillageName": "دوار زريت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.4458109 30.91661329999999)"
+    },
+    {
+      "VillageName": "Ouanechekrir",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.717147299999999 31.0285822)"
+    },
+    {
+      "VillageName": "دوار أماسين",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.795195099999999 31.3090452)"
+    },
+    {
+      "VillageName": "جمعية تغيسريت للتنمية والماء الصالح للشرب",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.1494542 31.22198249999999)"
+    },
+    {
+      "VillageName": "Tamezgourte",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.6853305 31.0440663)"
+    },
+    {
+      "VillageName": "Tagnit",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.769458499999999 29.9309538)"
+    },
+    {
+      "VillageName": "Agni Ouguerram",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3240727 30.1228691)"
+    },
+    {
+      "VillageName": "Agni",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7293615 30.1104665)"
+    },
+    {
+      "VillageName": "Ait Bou Oulli",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.603773 31.6033329)"
+    },
+    {
+      "VillageName": "مجموعة مدارس ابربار",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.0544852 31.319065)"
+    },
+    {
+      "VillageName": "Ait Moussa",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.6923807 30.6242409)"
+    },
+    {
+      "VillageName": "Ait Bou Oulli",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.603773 31.6033329)"
+    },
+    {
+      "VillageName": "اكادير ارجدالن",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7790518 31.2518801)"
+    },
+    {
+      "VillageName": "دوار أخفرگا",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5731433 30.8656346)"
+    },
+    {
+      "VillageName": "مسجد دوار تيفتية",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2835843 30.75525)"
+    },
+    {
+      "VillageName": "مسجد دوار ايت سليمان",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2742712 30.7570991)"
+    },
+    {
+      "VillageName": "مسجد دوار تكديرت نضلان",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3132333 30.728728)"
+    },
+    {
+      "VillageName": "مسجد دوار تاكوداشت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.301981699999999 30.8203079)"
+    },
+    {
+      "VillageName": "Commune Tigouga",
+      "PhoneNumber": "0673701247",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.616475699999999 30.8473135)"
+    },
+    {
+      "VillageName": "دوار إمغران بيكودين",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.2573773 30.6964295)"
+    },
+    {
+      "VillageName": "Douar Tafilalte",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.9776755 30.7943749)"
+    },
+    {
+      "VillageName": "Asghmou Iguernane",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.8116549 31.2332332)"
+    },
+    {
+      "VillageName": "ASGHMOU AYTE ZARARE",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.5658125 31.3365625)"
+    },
+    {
+      "VillageName": "مدرسة تكنزة توكوت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.0544659 31.20793230000001)"
+    },
+    {
+      "VillageName": "Anzal",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.5826235 31.1206905)"
+    },
+    {
+      "VillageName": "قصبة أنزال",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.2958204 30.754045)"
+    },
+    {
+      "VillageName": "Targa",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.870395 30.4705191)"
+    },
+    {
+      "VillageName": "وادي اخفيس",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.657697599999999 30.02020959999999)"
+    },
+    {
+      "VillageName": "Tamsoulte",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3228748 30.2807007)"
+    },
+    {
+      "VillageName": "Tanzat",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.983979999999999 31.3351105)"
+    },
+    {
+      "VillageName": "Tasgnt",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.8524718 30.8745729)"
+    },
+    {
+      "VillageName": "Tanzad",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.4180797 30.8366695)"
+    },
+    {
+      "VillageName": "Tizount",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7364157 30.6198553)"
+    },
+    {
+      "VillageName": "Tadnest",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.0751645 30.6262829)"
+    },
+    {
+      "VillageName": "Tasgounte",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2014777 30.3889284)"
+    },
+    {
+      "VillageName": "Tazarte",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.8392044 30.1431978)"
+    },
+    {
+      "VillageName": "Tanefzat",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5539045 29.9290141)"
+    },
+    {
+      "VillageName": "Targant",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3167146 30.7141672)"
+    },
+    {
+      "VillageName": "Amagdoule",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.715533299999999 31.3467572)"
+    },
+    {
+      "VillageName": "دوار أمكدول تمتمازر",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2820459 30.8607559)"
+    },
+    {
+      "VillageName": "Imoulass",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7653273 30.7434021)"
+    },
+    {
+      "VillageName": "Aghezane",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.9741015 31.3066037)"
+    },
+    {
+      "VillageName": "Souk Sebt Talmakant",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.9348837 30.8514539)"
+    },
+    {
+      "VillageName": "واد سكساوة إكرنسوق",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.740884 31.13540099999999)"
+    },
+    {
+      "VillageName": "ملعب سكساوة تابيا",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7262462 31.1142087)"
+    },
+    {
+      "VillageName": "Secteur Scolaire Tazyokt - Unité Takhoucht",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.147657600000002 30.7226103)"
+    },
+    {
+      "VillageName": "Secteur Scolaire Tazyokt",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.109453499999999 30.7382578)"
+    },
+    {
+      "VillageName": "Secteur Scolaire Tazyokt - Unité Tanfit",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1428645 30.7770058)"
+    },
+    {
+      "VillageName": "Siège de la Commune Tisrasse",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.128287 30.7130313)"
+    },
+    {
+      "VillageName": "مسجد اسلي تسراس",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.083837899999999 30.7934476)"
+    },
+    {
+      "VillageName": "Aghoulid",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.8614468 30.5069866)"
+    },
+    {
+      "VillageName": "اوزالن",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.187128399999999 30.8646914)"
+    },
+    {
+      "VillageName": "مسجد اوزالن",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.186719499999999 30.8651235)"
+    },
+    {
+      "VillageName": "مسجد اوزالن",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.112139299999999 30.8639821)"
+    },
+    {
+      "VillageName": "ايت إغمور",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.538624 30.7014153)"
+    },
+    {
+      "VillageName": "Lemdint",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.1999658 31.0390126)"
+    },
+    {
+      "VillageName": "مسجد اضغاغ‎",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.5267559 30.7004135)"
+    },
+    {
+      "VillageName": "دوار تمزيرت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-5.8987139 30.5786093)"
+    },
+    {
+      "VillageName": "مسجد تملاكوت‎",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.371629 30.75793719999999)"
+    },
+    {
+      "VillageName": "Anzal",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.5826235 31.1206905)"
+    },
+    {
+      "VillageName": "Tinzaline",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.377993499999999 30.7227928)"
+    },
+    {
+      "VillageName": "Tamicha",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.4526986 30.1044251)"
+    },
+    {
+      "VillageName": "Ichebaken",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.6137161 31.4655658)"
+    },
+    {
+      "VillageName": "",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "0670992678 - 0643177551 - 06103872248‎"
+    },
+    {
+      "VillageName": "Toundoute",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.581008 31.2744392)"
+    },
+    {
+      "VillageName": "دوار أماسين‎",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.795195099999999 31.3090452)"
+    },
+    {
+      "VillageName": "مسجد دوار تاكاديرت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.7814585 31.3641854)"
+    },
+    {
+      "VillageName": "مقبرة دوار أكادير إنفلاس",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7857006 31.2341954)"
+    },
+    {
+      "VillageName": "دوار ايت علال",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.9150429 31.4374619)"
+    },
+    {
+      "VillageName": "مقبرة دوار اگري",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.714127300000001 31.290352)"
+    },
+    {
+      "VillageName": "مسجد دوار تكديرت نضلان",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3132333 30.728728)"
+    },
+    {
+      "VillageName": "دوار أورست",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.8999101 30.4344743)"
+    },
+    {
+      "VillageName": "Ait Aissa",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.1276295 30.4909024)"
+    },
+    {
+      "VillageName": "TAGHRAT دوار تغراط",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.936596999999999 31.1793206)"
+    },
+    {
+      "VillageName": "Imogzen",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.0832931 31.46301949999999)"
+    },
+    {
+      "VillageName": "Aoufour",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.0567479 30.7295221)"
+    },
+    {
+      "VillageName": "Tirirte",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.924389100000001 30.9717587)"
+    },
+    {
+      "VillageName": "مسجد تيريت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.0730304 30.40577649999999)"
+    },
+    {
+      "VillageName": "دوار تنميترت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5514125 30.1896063)"
+    },
+    {
+      "VillageName": "Douar Tourit",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.558367600000002 31.2715933)"
+    },
+    {
+      "VillageName": "جبل تندري",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.6025357 30.9884619)"
+    },
+    {
+      "VillageName": "CASA EL AZZAOUY",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-5.3991767 30.6130144)"
+    },
+    {
+      "VillageName": "CASA EL MOTAOUAKKEL",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-5.4059349 31.4690483)"
+    },
+    {
+      "VillageName": "مسجد دوار تورار",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.7338423 31.0387411)"
+    },
+    {
+      "VillageName": "Anzelfi",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5413751 31.0430332)"
+    },
+    {
+      "VillageName": "دوار اسكاون‎‎",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.289906699999998 29.6950557)"
+    },
+    {
+      "VillageName": "Timditane",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.2851816 31.5764533)"
+    },
+    {
+      "VillageName": "Tasttift",
+      "PhoneNumber": "0670-784764",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.0215548 30.6389705)"
+    },
+    {
+      "VillageName": "Ait Hammou",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.776308200000001 31.4286548)"
+    },
+    {
+      "VillageName": "Tanmitert",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.8378152 30.95727359999999)"
+    },
+    {
+      "VillageName": "Ijoukak",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1625362 30.9973235)"
+    },
+    {
+      "VillageName": "Amizmiz",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2404397 31.2185473)"
+    },
+    {
+      "VillageName": "Tamjoute",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.4191077 30.3507397)"
+    },
+    {
+      "VillageName": "tajgalt",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.791997799999999 30.7628454)"
+    },
+    {
+      "VillageName": "Tasghimoute",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.594480099999999 31.5658852)"
+    },
+    {
+      "VillageName": "Douar Lakhmiss Ourika",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.7695151 31.3878876)"
+    },
+    {
+      "VillageName": "Centre Commune Ahl Tifnoute Assarag",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.826937200000001 30.964347)"
+    },
+    {
+      "VillageName": "Iguidi",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.9269419 30.747163)"
+    },
+    {
+      "VillageName": "Talat N'Yaaqoub",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1897211 30.9890101)"
+    },
+    {
+      "VillageName": "Ait Maalla",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.4204785 30.7605976)"
+    },
+    {
+      "VillageName": "Ikis",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.5164328 31.3178982)"
+    },
+    {
+      "VillageName": "Allousse",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.8699492 31.3226293)"
+    },
+    {
+      "VillageName": "Igherm",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.4650419 30.0849956)"
+    },
+    {
+      "VillageName": "Ifasfass",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.4554414 30.7618832)"
+    },
+    {
+      "VillageName": "Moulay Brahim",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.968822199999999 31.2854409)"
+    },
+    {
+      "VillageName": "Tadouni",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.317399100000001 30.53349579999999)"
+    },
+    {
+      "VillageName": "Taghenite",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.828806699999999 31.0253219)"
+    },
+    {
+      "VillageName": "Collège Tizi N'Test",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.4003072 30.832424)"
+    },
+    {
+      "VillageName": "Taslli",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.83376 31.4646774)"
+    },
+    {
+      "VillageName": "Imlil toubkal",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.819817 30.9974553)"
+    },
+    {
+      "VillageName": "Takouchte",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.0980212 30.8578313)"
+    },
+    {
+      "VillageName": "مسجد تفنوت‎",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.6121968 30.3598534)"
+    },
+    {
+      "VillageName": "Adebdi",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.4832176 30.8381106)"
+    },
+    {
+      "VillageName": "اداومحمود‎",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.8748765 30.4727126)"
+    },
+    {
+      "VillageName": "Amassa",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.8269728 30.867065)"
+    },
+    {
+      "VillageName": "عين تازيتونت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.8938691 31.14189739999999)"
+    },
+    {
+      "VillageName": "دوار أنزكارن",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.1383677 29.8286602)"
+    },
+    {
+      "VillageName": "Douirane Fuel Station",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.778592299999998 31.2114043)"
+    },
+    {
+      "VillageName": "Ighlmlen",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.652323899999999 30.9360202)"
+    },
+    {
+      "VillageName": "Talbourt",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.0726595 30.6121001)"
+    },
+    {
+      "VillageName": "Centre Commune Timezgadiouine",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.0439796 30.8851314)"
+    },
+    {
+      "VillageName": "Tafingoult",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.388272299999999 30.7648281)"
+    },
+    {
+      "VillageName": "Imoulass",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7653273 30.7434021)"
+    },
+    {
+      "VillageName": "Centre Commune Ait Oumdiss",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.0528691 31.4957763)"
+    },
+    {
+      "VillageName": "Imoulass",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7653273 30.7434021)"
+    },
+    {
+      "VillageName": "ايت باحمو",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.5729405 31.9648463)"
+    },
+    {
+      "VillageName": "Tagnite",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.8371353 30.989378)"
+    },
+    {
+      "VillageName": "Mosquée Izaguen",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.9206232 30.9787307)"
+    },
+    {
+      "VillageName": "Takouchte",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.0980212 30.8578313)"
+    },
+    {
+      "VillageName": "Ighil",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.851782499999999 30.054801)"
+    },
+    {
+      "VillageName": "Imintanoute",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.8457977 31.1719751)"
+    },
+    {
+      "VillageName": "Talgjount",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5453225 30.7267467)"
+    },
+    {
+      "VillageName": "Aït Othmane",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3916978 31.15403)"
+    },
+    {
+      "VillageName": "Tamicha",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.4526986 30.1044251)"
+    },
+    {
+      "VillageName": "Mezi",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.9160503 30.7999199)"
+    },
+    {
+      "VillageName": "Tachebibte Kablia",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2018193 31.26045349999999)"
+    },
+    {
+      "VillageName": "Douzrou",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.384161800000001 31.1594974)"
+    },
+    {
+      "VillageName": "Ait Mbarek",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2931055 31.5734338)"
+    },
+    {
+      "VillageName": "Amassine",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.582962200000001 30.810225)"
+    },
+    {
+      "VillageName": "Iguidi",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.9269419 30.747163)"
+    },
+    {
+      "VillageName": "Azouran",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.0923614 29.7469254)"
+    },
+    {
+      "VillageName": "Tabya",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.8790134 30.0361249)"
+    },
+    {
+      "VillageName": "Tadart",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.140772499999999 30.0589582)"
+    },
+    {
+      "VillageName": "Iguidi",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.9269419 30.747163)"
+    },
+    {
+      "VillageName": "Ait Chaib",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.421437899999999 31.665404)"
+    },
+    {
+      "VillageName": "Ait Mhand",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7735898 31.0290135)"
+    },
+    {
+      "VillageName": "تولوكلت TAOULOUKOULT‎",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.0844823 31.2190832)"
+    },
+    {
+      "VillageName": "Commune Imoulass",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7652556 30.74233869999999)"
+    },
+    {
+      "VillageName": "دوار تجكَالت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.855264199999999 31.0607559)"
+    },
+    {
+      "VillageName": "Centre Commune Oneine",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.187128399999999 30.8646914)"
+    },
+    {
+      "VillageName": "Douar Lakhmiss Ourika",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.7695151 31.3878876)"
+    },
+    {
+      "VillageName": "Sidi Abdellah Oussaid",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.682751399999999 30.7532462)"
+    },
+    {
+      "VillageName": "Aït Ben Haddou",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.131899600000001 31.047043)"
+    },
+    {
+      "VillageName": "Timicha",
+      "PhoneNumber": "0689968542",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.014475700000002 30.4220197)"
+    },
+    {
+      "VillageName": "Kasbah Taourirt",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.8992981 30.9201853)"
+    },
+    {
+      "VillageName": "Iznaguen",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-5.7701445 31.8118152)"
+    },
+    {
+      "VillageName": "مسجد اكون‎‎",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3233593 30.9227063)"
+    },
+    {
+      "VillageName": "تيزيرت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.426304499999999 30.210355)"
+    },
+    {
+      "VillageName": "Tamgounsi",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.986608100000001 31.2413614)"
+    },
+    {
+      "VillageName": "دوار ويركان",
+      "PhoneNumber": "+212 670-405714",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.0802025 31.1746319)"
+    },
+    {
+      "VillageName": "Aguerd",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.5096424 31.311537)"
+    },
+    {
+      "VillageName": "Q62P+97 إيمولاس،",
+      "PhoneNumber": "0610235145",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.7605867 30.7484473)"
+    },
+    {
+      "VillageName": "دوار اشبارو",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.483728600000001 30.6451346)"
+    },
+    {
+      "VillageName": "مركزية تسغيت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.985291000000002 31.005917)"
+    },
+    {
+      "VillageName": "Aguerd",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.335056 31.2914543)"
+    },
+    {
+      "VillageName": "Collège Tizi N'Test",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.4003072 30.832424)"
+    },
+    {
+      "VillageName": "إمغاتن",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.158203100000001 30.2164125)"
+    },
+    {
+      "VillageName": "Ait Chtia",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2571929 31.2810501)"
+    },
+    {
+      "VillageName": "الجماعة القروية أزكور",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3042676 31.1487359)"
+    },
+    {
+      "VillageName": "Amghras",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1822263 31.2095555)"
+    },
+    {
+      "VillageName": "Lalla Takerkoust",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1352213 31.35737)"
+    },
+    {
+      "VillageName": "إسوال",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.496120699999999 31.1348672)"
+    },
+    {
+      "VillageName": "تعاونية إكروفلا الفلاحية تالكجونت تارودانت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5466955 30.7409168)"
+    },
+    {
+      "VillageName": "El Makhzane",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5563077 30.7203166)"
+    },
+    {
+      "VillageName": "",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.2951915 28.0250868)"
+    },
+    {
+      "VillageName": "Talat N'Yaaqoub",
+      "PhoneNumber": "0696838602",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1837123 30.989573)"
+    },
+    {
+      "VillageName": "دوار إمي اغلاد",
+      "PhoneNumber": "0691003580",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.906861699999999 30.828659)"
+    },
+    {
+      "VillageName": "Tinwaline",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.0434589 32.0772052)"
+    },
+    {
+      "VillageName": "Mosquée Tazloumt",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.606285000000002 30.808782)"
+    },
+    {
+      "VillageName": "نقطة 459",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-6.9896098 30.9368298)"
+    },
+    {
+      "VillageName": "تريت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.0744823 30.4054392)"
+    },
+    {
+      "VillageName": "Anzelfi",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5413751 31.0430332)"
+    },
+    {
+      "VillageName": "مسجد تلدامت",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.553927300000002 31.0552074)"
+    },
+    {
+      "VillageName": "Tnirte",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.317056899999999 31.1112467)"
+    },
+    {
+      "VillageName": "Ait Ayoub",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-5.0358019 32.004664)"
+    },
+    {
+      "VillageName": "Ijoukak",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1583002 30.9998317)"
+    },
+    {
+      "VillageName": "Tazalt",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2532414 30.9783007)"
+    },
+    {
+      "VillageName": "Aghebarne",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.2206143 30.9516211)"
+    },
+    {
+      "VillageName": "Aghbalou",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.1184416 30.753556)"
+    },
+    {
+      "VillageName": "Agadirane",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.060839999999999 30.89900269999999)"
+    },
+    {
+      "VillageName": "Mosquée Asfzimer",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.7468352 30.7010034)"
+    },
+    {
+      "VillageName": "Askaoun",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.7783462 30.7415341)"
+    },
+    {
+      "VillageName": "جمعية أفولكي دوار الوكوسن",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.851312500000001 30.8258125)"
+    },
+    {
+      "VillageName": "دوار اكني",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.809995999999999 30.494152)"
+    },
+    {
+      "VillageName": "دوار امسكالن",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.809741299999998 30.8715054)"
+    },
+    {
+      "VillageName": "دوار إكداين",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.5523018 31.1560069)"
+    },
+    {
+      "VillageName": "دوار اسكاون",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-9.289906699999998 29.6950557)"
+    },
+    {
+      "VillageName": "دوار اسيف",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.923878500000001 30.5312657)"
+    },
+    {
+      "VillageName": "دوار اسكتان",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.3088441 30.4472071)"
+    },
+    {
+      "VillageName": "دوار أعرابن",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.7631269 30.8263755)"
+    },
+    {
+      "VillageName": "دوار طلزية",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-7.778346199999998 30.7415341)"
+    },
+    {
+      "VillageName": "Point 481",
+      "PhoneNumber": "",
+      "IsServed": "",
+      "Additional Infos": "",
+      "Position": "POINT (-8.5115342 30.7626982)"
+    }
+  ]
